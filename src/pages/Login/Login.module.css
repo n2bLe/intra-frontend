@@ -1,0 +1,309 @@
+.continueWithEmailBtn,
+.googleLogosByHrhasnai1,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 23.2px;
+}
+.continueWithEmailBtn,
+.groupChild {
+  top: 487px;
+  left: 793px;
+}
+.groupChild {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  height: 700px;
+}
+.logIn,
+.logo1Icon {
+  position: absolute;
+  left: 6.91%;
+}
+.logo1Icon {
+  width: 17.45%;
+  top: 15px;
+  right: 75.64%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 60px;
+  object-fit: cover;
+}
+.logIn {
+  top: 108px;
+  font-size: var(--font-size-16xl);
+}
+.continueToIntra,
+.help,
+.privacy,
+.terms {
+  position: absolute;
+  color: var(--color-dimgray);
+}
+.continueToIntra {
+  top: 154px;
+  left: 6.91%;
+  font-size: var(--font-size-xl);
+}
+.help,
+.privacy,
+.terms {
+  top: 656px;
+  left: 56.55%;
+}
+.privacy,
+.terms {
+  left: 67.27%;
+}
+.terms {
+  left: 81.64%;
+}
+.continueWithEmailBtnChild {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 56px;
+}
+.continueWithGoogle {
+  position: absolute;
+  width: 84.84%;
+  top: 0;
+  left: 15.16%;
+  font-weight: 500;
+  display: inline-block;
+  height: 24px;
+}
+.googleLogosByHrhasnai11 {
+  position: absolute;
+  width: 10.83%;
+  top: 1.6px;
+  right: 89.17%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 23.2px;
+  object-fit: cover;
+}
+.continueWithGoogleParent {
+  position: absolute;
+  width: 59.44%;
+  top: 13px;
+  right: 22.96%;
+  left: 17.6%;
+  height: 24.8px;
+}
+.continueWithEmailBtn1 {
+  position: absolute;
+  width: 84.73%;
+  top: 484px;
+  right: 8.36%;
+  left: 6.91%;
+  height: 56px;
+  font-size: var(--font-size-xl);
+}
+.continueWithEmailBtnItem,
+.logIn1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.continueWithEmailBtnItem :hover{
+  cursor: pointer;
+}
+.continueWithEmailBtnItem {
+  font-size: 20px;
+  font-family: sans-serif, dm-sans;
+  font-weight: Medium;
+  right: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 56px;
+}
+.getStarted{
+  text-decoration: none;
+}
+.privacy,.terms,.help{
+  text-decoration: none;
+}
+.logIn1 {
+  font-weight: 500;
+  display: inline-block;
+  height: 24px;
+}
+.googlebutton{
+  cursor: pointer;
+  font-weight: Medium;
+  font-size: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 466px;
+  height: 56px;
+}
+.googleLogosByHrhasnai12,
+.logInParent {
+  position: absolute;
+  width: 12.77%;
+  top: 3.6px;
+  right: 87.23%;
+  left: 0;
+  height: 23.2px;
+}
+.logInParent {
+  width: 16.31%;
+  top: 15px;
+  right: 40.99%;
+  left: 42.7%;
+  height: 26.8px;
+}
+.continueWithEmailBtn2 {
+  position: absolute;
+  width: 84.73%;
+  top: 400px;
+  right: 8.36%;
+  left: 6.91%;
+  height: 56px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.rectangleWrapper {
+  position: absolute;
+  width: 100%;
+  top: 30px;
+  right: 0;
+  left: 0;
+  height: 56px;
+}
+.email {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupContainer,
+.groupParent {
+  position: absolute;
+  width: 84.73%;
+  top: 195px;
+  right: 8.36%;
+  left: 6.91%;
+  height: 86px;
+}
+.groupContainer {
+  top: 299px;
+}
+.groupChild1,
+.groupChild2,
+.lineDiv {
+  position: absolute;
+  width: 40.99%;
+  top: 12.5px;
+  right: -0.11%;
+  left: 59.12%;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 1px;
+}
+.groupChild1,
+.groupChild2 {
+  width: 36.48%;
+  left: 63.63%;
+}
+.groupChild2 {
+  width: 40.99%;
+  right: 59.12%;
+  left: -0.11%;
+}
+.lineParent,
+.or {
+  position: absolute;
+  height: 23px;
+}
+.or {
+  width: 6.22%;
+  top: 0;
+  left: 48.93%;
+  display: inline-block;
+}
+.lineParent {
+  width: 84.73%;
+  top: 458px;
+  right: 8.36%;
+  left: 6.91%;
+  font-size: var(--font-size-lg);
+}
+.getStarted,
+.newToIntra {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 122px;
+  height: 26px;
+}
+.getStarted {
+  left: 105px;
+  color: var(--color-slateblue);
+  width: 106px;
+}
+.newToIntraParent,
+.rectangleParent {
+  position: absolute;
+  top: 558px;
+  left: 38px;
+  width: 211px;
+  height: 26px;
+}
+.continueWithEmailBtn1:hover{
+  cursor:pointer;
+}
+.inputs {
+  padding-left: 20px;
+  text-align: left;
+  font-size: 16px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 466px;
+  height: 56px;
+}
+.rectangleParent {
+  width: 28.65%;
+  top: 162px;
+  right: 35.68%;
+  left: 35.68%;
+  height: 700px;
+}
+.login {
+  position: relative;
+  background: linear-gradient(180deg, #070c1f, #2c1d22);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-dm-sans);
+}
